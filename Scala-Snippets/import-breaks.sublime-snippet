@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import scala.util.control.Breaks._
+]]></content>
+	<tabTrigger>impbrk</tabTrigger> 
+	<description>import breaks</description>
+	<scope>source.scala</scope>
+</snippet>

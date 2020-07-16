@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Ordering.fromLessThan[$1]({($2,$3) => $2 > $3})
+]]></content>
+	<tabTrigger>ordrflt</tabTrigger> 
+	<description>Ordering from less than</description>
+	<scope>source.scala</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+object $1 extends App{
+	class $1($2){}
+}
+]]></content>
+	<tabTrigger>companion</tabTrigger> 
+	<description>creates an object with its companion class</description>
+	<scope>source.scala</scope>
+</snippet>

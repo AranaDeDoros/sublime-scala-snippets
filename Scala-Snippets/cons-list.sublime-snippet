@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 :: Nil
+]]></content>
+	<tabTrigger>conslst</tabTrigger> 
+	<description>list built with cons and ending in Nil</description>
+	<scope>source.scala</scope>
+</snippet>

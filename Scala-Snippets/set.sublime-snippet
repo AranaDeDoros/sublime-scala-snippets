@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Set($1)
+]]></content>
+	<tabTrigger>set</tabTrigger> 
+	<description>new Set</description>
+	<scope>source.scala</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter{$1 => $1 > 1}
+]]></content>
+	<tabTrigger>filter</tabTrigger> 
+	<description>filter with function literal</description>
+	<scope>source.scala</scope>
+</snippet>

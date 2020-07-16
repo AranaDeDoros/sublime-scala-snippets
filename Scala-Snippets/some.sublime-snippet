@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Some[$1]
+]]></content>
+	<tabTrigger>some</tabTrigger> 
+	<description>Some of x type</description>
+	<scope>source.scala</scope>
+</snippet>

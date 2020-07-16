@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for($1 <- $2){
+
+} yield
+]]></content>
+	<tabTrigger>forcomp</tabTrigger> 
+	<description>for comprehension</description>
+	<scope>source.scala</scope>
+</snippet>

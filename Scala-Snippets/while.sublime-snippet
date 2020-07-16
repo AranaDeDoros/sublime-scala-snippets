@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+while($1){
+	$2
+}
+]]></content>
+	<tabTrigger>while</tabTrigger> 
+	<description>while</description>
+	<scope>source.scala</scope>
+</snippet>

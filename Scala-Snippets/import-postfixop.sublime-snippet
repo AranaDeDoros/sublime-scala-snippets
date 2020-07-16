@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import scala.language.postfixOps
+]]></content>
+	<tabTrigger>imppostfix</tabTrigger> 
+	<description>import postFixOps</description>
+	<scope>source.scala</scope>
+</snippet>

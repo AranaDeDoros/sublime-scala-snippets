@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+map{$1 => $1}
+]]></content>
+	<tabTrigger>map</tabTrigger> 
+	<description>map with function literal</description>
+	<scope>source.scala</scope>
+</snippet>

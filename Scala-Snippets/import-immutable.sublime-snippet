@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import scala.collection.immutable
+]]></content>
+	<tabTrigger>impimut</tabTrigger> 
+	<description>import immutable collections</description>
+	<scope>source.scala</scope>
+</snippet>

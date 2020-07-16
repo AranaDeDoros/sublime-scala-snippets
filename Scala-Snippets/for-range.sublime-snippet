@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for( i <- ${1} to ${2}){
+
+}
+]]></content>
+	<tabTrigger>forrng</tabTrigger> 
+	<description>for with range</description>
+	<scope>source.scala</scope>
+</snippet>

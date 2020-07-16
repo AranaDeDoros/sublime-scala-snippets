@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+None[$1]
+]]></content>
+	<tabTrigger>none</tabTrigger> 
+	<description>None of x type</description>
+	<scope>source.scala</scope>
+</snippet>

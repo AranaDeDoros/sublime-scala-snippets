@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+retain{ $1 => $1 % 2 == 0})
+]]></content>
+	<tabTrigger>retain</tabTrigger> 
+	<description>retain with function literal</description>
+	<scope>source.scala</scope>
+</snippet>

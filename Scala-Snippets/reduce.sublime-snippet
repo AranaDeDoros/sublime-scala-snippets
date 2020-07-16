@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reduce{($1,$2) => $1+$2}
+]]></content>
+	<tabTrigger>reduce</tabTrigger> 
+	<description>reduce with function literal</description>
+	<scope>source.scala</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+breakable{
+	$1
+}
+]]></content>
+	<tabTrigger>breakable</tabTrigger> 
+	<description>new Breaking point</description>
+	<scope>source.scala</scope>
+</snippet>

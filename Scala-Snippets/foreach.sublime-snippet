@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+foreach($1)
+]]></content>
+	<tabTrigger>foreach</tabTrigger> 
+	<description>foreach </description>
+	<scope>source.scala</scope>
+</snippet>

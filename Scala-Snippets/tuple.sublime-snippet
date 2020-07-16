@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Tuple$1($2)
+]]></content>
+	<tabTrigger>tuple</tabTrigger> 
+	<description>new TupleN</description>
+	<scope>source.scala</scope>
+</snippet>

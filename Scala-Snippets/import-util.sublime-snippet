@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import scala.util._
+]]></content>
+	<tabTrigger>imputil</tabTrigger> 
+	<description>import util</description>
+	<scope>source.scala</scope>
+</snippet>

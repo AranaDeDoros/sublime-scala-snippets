@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Option[$1]
+]]></content>
+	<tabTrigger>option</tabTrigger> 
+	<description>Option of x type</description>
+	<scope>source.scala</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import scala.annotation._
+]]></content>
+	<tabTrigger>impannt</tabTrigger> 
+	<description>import annotations</description>
+	<scope>source.scala</scope>
+</snippet>

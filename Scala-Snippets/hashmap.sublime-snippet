@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+HashMap($1)
+]]></content>
+	<tabTrigger>hashmap</tabTrigger> 
+	<description>new HashMap</description>
+	<scope>source.scala</scope>
+</snippet>

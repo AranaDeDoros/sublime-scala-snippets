@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Map($1)
+]]></content>
+	<tabTrigger>map</tabTrigger> 
+	<description>new Map</description>
+	<scope>source.scala</scope>
+</snippet>

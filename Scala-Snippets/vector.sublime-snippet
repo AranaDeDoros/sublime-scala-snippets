@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Vector($1)
+]]></content>
+	<tabTrigger>vector</tabTrigger> 
+	<description>new Vector</description>
+	<scope>source.scala</scope>
+</snippet>
