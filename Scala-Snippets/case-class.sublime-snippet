@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+case class $1($2: $3)
+]]></content>
+	<tabTrigger>casec</tabTrigger> 
+	<description>case class</description>
+	<scope>source.scala</scope>
+</snippet>

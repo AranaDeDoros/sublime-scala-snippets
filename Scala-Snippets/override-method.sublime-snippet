@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+override def $1($2: $3){}
+]]></content>
+	<tabTrigger>odef</tabTrigger> 
+	<description>method override</description>
+	<scope>source.scala</scope>
+</snippet>

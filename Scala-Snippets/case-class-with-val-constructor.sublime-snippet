@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+case class $1 (val $2: $3) {}
+]]></content>
+	<tabTrigger>ccval</tabTrigger> 
+	<description>case class with val params in constructor</description>
+	<scope>source.scala</scope>
+</snippet>
