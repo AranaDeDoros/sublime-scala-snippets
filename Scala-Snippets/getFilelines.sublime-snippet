@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scala.io.Source.fromFile($1).getLines.toList
+]]></content>
+	<tabTrigger>getlns</tabTrigger> 
+	<description>get filelines</description>
+	<scope>source.scala</scope>
+</snippet>

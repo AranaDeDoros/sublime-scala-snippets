@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+mkString($1)
+]]></content>
+	<tabTrigger>mkstr</tabTrigger> 
+	<description>makeString</description>
+	<scope>source.scala</scope>
+</snippet>

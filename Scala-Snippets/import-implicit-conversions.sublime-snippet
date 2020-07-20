@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import scala.language.implicitConversions
+]]></content>
+	<tabTrigger>impimpl</tabTrigger> 
+	<description>import implicitConversions</description>
+	<scope>source.scala</scope>
+</snippet>

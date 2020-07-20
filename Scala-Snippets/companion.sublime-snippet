@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-object $1 extends App{
-	class $1($2){}
+object $1 {
+	class $1($2){$3}
 }
 ]]></content>
 	<tabTrigger>companion</tabTrigger> 

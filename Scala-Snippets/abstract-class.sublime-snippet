@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+abstract class $1 ($2: 3) {$4}
+]]></content>
+	<tabTrigger>abstract</tabTrigger> 
+	<description>abstract class</description>
+	<scope>source.scala</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+implicit def $1
+]]></content>
+	<tabTrigger>impl</tabTrigger> 
+	<description>implicit def</description>
+	<scope>source.scala</scope>
+</snippet>
