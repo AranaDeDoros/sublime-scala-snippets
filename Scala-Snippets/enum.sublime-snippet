@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+object $1 extends Enumeration{
+	type $1 = Value
+	val $2 = Value
+}
+]]></content>
+	<tabTrigger>enum</tabTrigger> 
+	<description>create enum</description>
+	<scope>source.scala</scope>
+</snippet>
