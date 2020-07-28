@@ -1,10 +1,14 @@
 <snippet>
 	<content><![CDATA[
-object $1 {
-	class $1($2){$3}
+class $1($2){$3} {
+		
+}	
+
+object $1{
+
 }
 ]]></content>
 	<tabTrigger>companion</tabTrigger> 
-	<description>creates an object with its companion class</description>
+	<description>class with its companion object</description>
 	<scope>source.scala</scope>
 </snippet>
