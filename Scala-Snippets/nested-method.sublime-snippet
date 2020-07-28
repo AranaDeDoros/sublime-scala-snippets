@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+def $1($2:$3): = {
+	$8
+	def $4($5:$6): = {
+		$7	
+	}
+}
+]]></content>
+	<tabTrigger>nested</tabTrigger> 
+	<description>nested methods</description>
+	<scope>source.scala</scope>
+</snippet>
