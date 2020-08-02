@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+def $1 ($2)($3) = {$4}
+]]></content>
+	<tabTrigger>curry</tabTrigger> 
+	<description>curried method</description>
+	<scope>source.scala</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+package $1 {
+	$2
+}
+]]></content>
+	<tabTrigger>pkg</tabTrigger> 
+	<description>new package</description>
+	<scope>source.scala</scope>
+</snippet>

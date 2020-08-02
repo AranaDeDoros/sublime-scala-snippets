@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-if ($1) else ($2)
+if ($1) else $2
 ]]></content>
 	<tabTrigger>ifelse</tabTrigger> 
 	<description>if/else</description>
