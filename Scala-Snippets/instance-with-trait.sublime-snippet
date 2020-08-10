@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+val $1 = new $2 with $3
+]]></content>
+	<tabTrigger>inswtrait</tabTrigger> 
+	<description>instance with trait</description>
+	<scope>source.scala</scope>
+</snippet>

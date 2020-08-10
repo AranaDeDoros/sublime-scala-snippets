@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+trait $1{
+		this: { $2 } =>
+}
+]]></content>
+	<tabTrigger>selftrait</tabTrigger> 
+	<description>trait with selftype</description>
+	<scope>source.scala</scope>
+</snippet>
