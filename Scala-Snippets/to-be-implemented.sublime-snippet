@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+def tbi(arg:Any*): Nothing = ???]]>
+    </content>
+	<tabTrigger>tbi</tabTrigger>
+	<description>method to be implemented</description>
+	<scope>source.scala</scope>
+</snippet>

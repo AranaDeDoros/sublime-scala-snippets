@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 unzip $2
+]]></content>
+	<tabTrigger>unzip</tabTrigger> 
+	<description>unzip two collections</description>
+	<scope>source.scala</scope>
+</snippet>

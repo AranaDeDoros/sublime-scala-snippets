@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+val $1 = new PartialFunction[$2, $3] {
+    def apply($2: Any): Any = {}
+    def isDefinedAt($3: Any): Any = {}
+}
+]]></content>
+	<tabTrigger>partialf</tabTrigger> 
+	<description>partial function</description>
+	<scope>source.scala</scope>
+</snippet>

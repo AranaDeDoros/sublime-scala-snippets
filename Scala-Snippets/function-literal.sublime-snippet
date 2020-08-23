@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+val $1:($2:$3) => $4
+]]></content>
+	<tabTrigger>fncltrl</tabTrigger> 
+	<description>function literal</description>
+	<scope>source.scala</scope>
+</snippet>

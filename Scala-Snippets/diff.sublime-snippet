@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 diff $2
+]]></content>
+	<tabTrigger>diff</tabTrigger> 
+	<description>diff two collections</description>
+	<scope>source.scala</scope>
+</snippet>

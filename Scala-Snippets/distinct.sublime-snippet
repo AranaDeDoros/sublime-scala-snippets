@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$1 distinct $2
+]]></content>
+	<tabTrigger>distinct</tabTrigger> 
+	<description>distinct two collections</description>
+	<scope>source.scala</scope>
+</snippet>
