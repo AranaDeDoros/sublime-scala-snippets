@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+def $1($2:$3): this.type = {
+		this
+}
+]]></content>
+	<tabTrigger>this.type</tabTrigger>
+	<description>return self-type</description>
+	<scope>source.scala</scope>
+</snippet>
